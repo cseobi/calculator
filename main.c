@@ -4,6 +4,7 @@ int add(int, int);
 int sub(int, int);
 int div(int, int);
 int multi(int, int);
+int add2(int, int);
  
 int main(int argc, char* argv[])
 {
