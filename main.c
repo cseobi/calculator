@@ -4,6 +4,7 @@ int add(int, int);
 int sub(int, int);
 int div(int, int);
 int multi(int, int);
+//conflict2 용 수정라인 추가
  
 int main(int argc, char* argv[])
 {
